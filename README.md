@@ -1,4 +1,4 @@
-### Hi there, you are here too early for me to have anything to show. In the meantime, please do at this. 👋
+### Hi there, you are here too early for me to have anything to show. In the meantime, please look at this. 👋
 
 <p align="center">
   <img width="460" height="300" src="fox.svg">
