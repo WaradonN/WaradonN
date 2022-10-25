@@ -4,7 +4,7 @@
   <img width="460" height="300" src="fox.svg">
 </p>
 <p align="center">
-  Thank for your cooperation.
+  Thanks for your cooperation.
 </p>
 
 <!--
