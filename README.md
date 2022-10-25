@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, you are here too early for me to have anything to show. In the meantime, please do at this. 👋
+
+<p align="center">
+  <img width="460" height="300" src="fox.svg">
+</p>
+<p align="center">
+  Thank for your cooperation.
+</p>
 
 <!--
 **WaradonN/WaradonN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
