@@ -1,0 +1,64 @@
+<svg version="1.1" width="250pt" height="250pt" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+
+    <path stroke="black" fill="#ff6e00" d="M 20 20 A 20 20 0 0 1 40 45">
+    <animate attributeName="d" 
+        values="M 20 20 A 20 20 0 0 1 40 45;M 20 20 A 20 20 0 0 1 40 45;M 23 18 A 20 20 0 0 1 40 45;M 23 18 A 20 20 0 0 1 40 45;M 20 20 A 20 20 0 0 1 40 45;M 20 20 A 20 20 0 0 1 40 45" 
+        dur="2.5" repeatCount="indefinite"/>
+    </path>
+    <path stroke="black" fill="#ff6e00" d="M 20 20 A 20 20 0 0 0  40 45">
+        <animate attributeName="d"
+                values="M 20 20 A 20 20 0 0 0 40 45;M 20 20 A 20 20 0 0 0 40 45;M 23 18 A 20 20 0 0 0 40 45;M 23 18 A 20 20 0 0 0 40 45;M 20 20 A 20 20 0 0 0 40 45;M 20 20 A 20 20 0 0 0 40 45" 
+                dur="2.5" repeatCount="indefinite"/>
+    </path>
+    <path stroke="black" fill="#ff6e00" d="M 80 20 A 20 20 0 0 1 60 45">
+        <animate attributeName="d"
+                values="M 80 20 A 20 20 0 0 1 60 45;M 80 20 A 20 20 0 0 1 60 45;M 82 22 A 20 20 0 0 1 60 45;M 82 22 A 20 20 0 0 1 60 45;M 80 20 A 20 20 0 0 1 60 45;M 80 20 A 20 20 0 0 1 60 45" 
+                dur="2.5" repeatCount="indefinite"/>
+    </path>
+    <path stroke="black" fill="#ff6e00" d="M 80 20 A 20 20 0 0 0 60 45">
+        <animate attributeName="d"
+                values="M 80 20 A 20 20 0 0 0 60 45;M 80 20 A 20 20 0 0 0 60 45;M 82 22 A 20 20 0 0 0 60 45;M 82 22 A 20 20 0 0 0 60 45;M 80 20 A 20 20 0 0 0 60 45;M 80 20 A 20 20 0 0 0 60 45" 
+                dur="2.5" repeatCount="indefinite"/>
+    </path>
+    
+    
+    <path fill="gray" d="M 25 25 A 20 20 0 0 1 40 45">
+        <animate attributeName="d" 
+                values="M 25 25 A 20 20 0 0 1 40 45;M 25 25 A 20 20 0 0 1 40 45;M 27 23 A 20 20 0 0 1 40 45;M 27 23 A 20 20 0 0 1 40 45;M 25 25 A 20 20 0 0 1 40 45;M 25 25 A 20 20 0 0 1 40 45" 
+                dur="2.5" repeatCount="indefinite"/>
+    </path>
+    <path fill="gray" d="M 25 25 A 20 20 0 0 0 40 45">
+        <animate attributeName="d" 
+                values="M 25 25 A 20 20 0 0 0 40 45;M 25 25 A 20 20 0 0 0 40 45;M 27 23 A 20 20 0 0 0 40 45;M 27 23 A 20 20 0 0 0 40 45;M 25 25 A 20 20 0 0 0 40 45;M 25 25 A 20 20 0 0 0 40 45" 
+                dur="2.5" repeatCount="indefinite"/>
+    </path>
+    <path fill="gray" d="M 75 25 A 20 20 0 0 1 60 45">
+        <animate attributeName="d" 
+                values="M 75 25 A 20 20 0 0 1 60 45;M 75 25 A 20 20 0 0 1 60 45;M 78 27 A 20 20 0 0 1 60 45;M 78 27 A 20 20 0 0 1 60 45;M 75 25 A 20 20 0 0 1 60 45;M 75 25 A 20 20 0 0 1 60 45"
+                dur="2.5" repeatCount="indefinite"/>
+    </path>
+    <path fill="gray" d="M 75 25 A 20 20 0 0 0 60 45">
+        <animate attributeName="d" 
+                values="M 75 25 A 20 20 0 0 0 60 45;M 75 25 A 20 20 0 0 0 60 45;M 78 27 A 20 20 0 0 0 60 45;M 78 27 A 20 20 0 0 0 60 45;M 75 25 A 20 20 0 0 0 60 45;M 75 25 A 20 20 0 0 0 60 45"
+                dur="2.5" repeatCount="indefinite"/>
+    </path>
+    
+    <path stroke="black" fill="#ff6e00" d="M 20 60 A 25 23 0 1 1 80 60"/>
+    <path stroke="black" fill="lightgray" d="M 20 60 A 31 16 0 1 0 80 60"/>
+    <path fill="#ff6e00" d="M 20.5 60 A 25 7 0 0 0 79.5 60"/>
+    
+    <path stroke="black" fill="white" d="M 35 50 A 1.5 2.5 0 1 0 45 50"/>
+    <path stroke="black" fill="white" d="M 55 50 A 1.5 2.5 0 1 0 65 50"/>
+    <path stroke="black" d="M 33 50 h14"/>
+    <path stroke="black" d="M 53 50 h14"/>
+    
+    <circle cx="41" cy="55" r="3" fill="black">
+        <animate attributeName="cx" values="41;41;39;39;41;41" dur="2.5" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="61" cy="55" r="3" fill="black">
+        <animate attributeName="cx" values="61;61;59;59;61;61" dur="2.5" repeatCount="indefinite"/>
+    </circle>
+    <path stroke="black" fill="black" d="M 47 67 A 1.5 2 0 1 0 50 67">
+        <animate attributeName="d" values="M 49 67 A 1.5 2 0 1 0 52 67;M 49 67 A 1.5 2 0 1 0 52 67;M 47 67 A 1.5 2 0 1 0 50 67;M 47 67 A 1.5 2 0 1 0 50 67;M 49 67 A 1.5 2 0 1 0 52 67;M 49 67 A 1.5 2 0 1 0 52 67" dur="2.5" repeatCount="indefinite"/>
+    </path>
+</svg>
